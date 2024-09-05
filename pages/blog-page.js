@@ -1,6 +1,6 @@
 import Layout from "../components/Layout";
 import Post from "../components/Post";
-import { getAllPostsData } from "../lib/post";
+import { getAllPostsData } from "../lib/posts";
 
 function Blog({ posts }) {
   return (
